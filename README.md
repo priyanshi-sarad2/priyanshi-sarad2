@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Automation
 
-DevOps Engineer with ~3 years of experience building and operating reliable **AWS** and **Kubernetes** platforms across **cloud and on-prem**. I focus on infrastructure automation, CI/CD, platform reliability, and secure delivery — and I like owning infrastructure end to end, from provisioning to day-to-day operations.
+DevOps Engineer with 3 years of experience building and operating reliable **AWS** and **Kubernetes** platforms across **cloud and on-prem**, focused on infrastructure automation, CI/CD, security improvements, and enabling developers to ship faster.
 
 - Based in Shahjahanpur, Uttar Pradesh, India
 - Strong with Terraform (reusable modules), GitLab CI/CD, Kubernetes operations, and automation in Python/Bash
