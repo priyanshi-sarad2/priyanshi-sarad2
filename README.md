@@ -12,7 +12,6 @@ DevOps Engineer with 3 years of experience building and operating reliable **AWS
 
 ## Tech Stack
 
-### Professional experience
 | Area | Tools |
 | --- | --- |
 | Cloud | AWS (EKS, ECS, Lambda, API Gateway, RDS, S3, CloudFront, WAF, IAM) |
@@ -22,11 +21,6 @@ DevOps Engineer with 3 years of experience building and operating reliable **AWS
 | Monitoring & Logging | Prometheus, Grafana, CloudWatch |
 | Automation & Scripting | Bash, Python, n8n |
 | OS & Web | Linux Administration, NGINX |
-
-### Currently building / learning
-- GitOps delivery with **ArgoCD**
-- Advancing my EKS platform project with CI/CD, autoscaling, and image scanning (Trivy)
-- Deepening DevSecOps and cost-optimization practices
 
 ---
 
