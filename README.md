@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Automation
 
-[LinkedIn](https://www.linkedin.com/in/priyanshi-sarad) &nbsp;·&nbsp; itspriyanshisarad@gmail.com
+[LinkedIn](https://www.linkedin.com/in/priyanshi-sarad/) &nbsp;·&nbsp; itspriyanshisarad@gmail.com
 
 DevOps Engineer with 3 years of experience building and operating reliable **AWS** and **Kubernetes** platforms across **cloud and on-prem**, focused on infrastructure automation, CI/CD, security improvements, and enabling developers to ship faster.
 
