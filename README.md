@@ -19,3 +19,20 @@ DevOps Engineer with 3 years of experience building and operating reliable **AWS
 | Monitoring & Logging | Prometheus, Grafana, CloudWatch |
 | Automation & Scripting | Bash, Python, n8n |
 | OS & Web | Linux Administration, NGINX |
+
+---
+
+## Projects
+
+### [Fleet Management System](https://github.com/priyanshi-sarad2/fleet-management-system)
+
+Production-style microservices platform on **AWS EKS**, provisioned end-to-end with **Terraform** and delivered through a **CI/CD pipeline** — a full cloud-native reference architecture.
+
+- **Infrastructure as Code** — Terraform-managed multi-AZ VPC, EKS + managed node groups, ECR, Amazon MQ, CloudFront, ACM, IAM/IRSA
+- **Kubernetes** — Helm-deployed Spring Boot microservices, AWS Load Balancer Controller (ALB Ingress), External Secrets Operator
+- **CI/CD** — AWS CodePipeline & CodeBuild build images to ECR, then Helm-deploy to EKS
+- **Edge & Security** — CloudFront + WAF, HTTPS via ACM, secrets sourced from AWS Secrets Manager
+
+**Stack:** AWS · EKS · Terraform · Helm · Docker · CodePipeline · CloudFront · Spring Boot
+
+[Repository](https://github.com/priyanshi-sarad2/fleet-management-system) &nbsp;·&nbsp; [Documentation (README)](https://github.com/priyanshi-sarad2/fleet-management-system#readme)
