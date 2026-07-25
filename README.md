@@ -4,7 +4,7 @@
 
 itspriyanshisarad@gmail.com
 
-DevOps Engineer with 3 years of experience building and operating reliable **AWS** and **Kubernetes** platforms across **cloud and on-prem**, focused on infrastructure automation, CI/CD, security improvements, and enabling developers to ship faster.
+DevOps Engineer with experience building and operating reliable **AWS** and **Kubernetes** platforms across **cloud and on-prem**, focused on infrastructure automation, CI/CD, security improvements, and enabling developers to ship faster.
 
 ---
 
